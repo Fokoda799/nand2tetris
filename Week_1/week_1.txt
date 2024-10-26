@@ -1,0 +1,4 @@
+1. Boolean logic
+2. Logic functions combention
+3. Logic gates
+4. Hardware Description languige (HDL)
